@@ -1,21 +1,21 @@
 [	{"Title":"Measurement of the first ionization potential of astatine by laser ionization spectroscopy",
-	"Label":"Astatine","CitedBy":29, "Year":2013,"Author":false, 
+	"Label":"Astatine","CitedBy":59, "Year":2013,"Author":false, 
 	"URL":"http://www.nature.com/ncomms/journal/v4/n5/abs/ncomms2819.html"},
 
 	{"Title":"Magnetic and quadrupole moments of neutron deficient 58-62Cu isotopes",
-	"Label":"Copper","CitedBy":23, "Year":2011,"Author":false,
+	"Label":"Copper","CitedBy":29, "Year":2011,"Author":false,
 	"URL":"http://www.sciencedirect.com/science/article/pii/S0370269311008549"},
 
 	{"Title":"Collinear Resonance Ionization Spectroscopy of Neutron-Deficient Francium Isotopes",
-	"Label":"Francium","CitedBy":24, "Year":2013,"Author":false,
+	"Label":"Francium","CitedBy":45, "Year":2013,"Author":false,
 	"URL":"http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.111.212501"},
 
 	{"Title":"Development of the CRIS (Collinear Resonant Ionisation Spectroscopy) beam line",
-	"Label":"CRIS","CitedBy":24, "Year":2012,"Author":true,
+	"Label":"CRIS","CitedBy":29, "Year":2012,"Author":true,
 	"URL":"http://iopscience.iop.org/1742-6596/381/1/012070"},
 
 	{"Title":"Nuclear mean-square charge radii of 63, 64, 66, 68− 82 Ga nuclei: No anomalous behavior at N= 32",
-	"Label":"Gallium","CitedBy":20, "Year":2012,"Author":true,
+	"Label":"Gallium","CitedBy":27, "Year":2012,"Author":true,
 	"URL":"http://journals.aps.org/prc/abstract/10.1103/PhysRevC.86.034329"},
 
 	{"Title":"A dedicated decay-spectroscopy station for the collinear resonance ionization experiment at ISOLDE",
@@ -23,52 +23,64 @@
 	"URL":"http://www.sciencedirect.com/science/article/pii/S0168900212016464"},
 
 	{"Title":"Laser assisted decay spectroscopy at the CRIS beam line at ISOLDE",
-	"Label":"CRIS","CitedBy":16, "Year":2013,"Author":false,
+	"Label":"CRIS","CitedBy":18, "Year":2013,"Author":false,
 	"URL":"http://link.springer.com/article/10.1007/s10751-013-0820-y"},
 
 	{"Title":"Decay-Assisted Laser Spectroscopy of Neutron-Deficient Francium",
-	"Label":"CRIS","CitedBy":14, "Year":2014,"Author":false,
+	"Label":"CRIS","CitedBy":34, "Year":2014,"Author":false,
 	"URL":"http://journals.aps.org/prx/abstract/10.1103/PhysRevX.4.011055"},
 
 	{"Title":"The collinear resonance ionization spectroscopy (CRIS) experimental setup at CERN-ISOLDE",
-	"Label":"CRIS","CitedBy":13, "Year":2013,"Author":false,
+	"Label":"CRIS","CitedBy":26, "Year":2013,"Author":false,
 	"URL":"http://www.sciencedirect.com/science/article/pii/S0168583X13007088"},
 
 	{"Title":"First on-line results from the CRIS (Collinear Resonant Ionisation Spectroscopy) beam line at ISOLDE",
 	"Label":"CRIS","CitedBy":9, "Year":2013,"Author":true,
 	"URL":"http://link.springer.com/article/10.1007/s10751-013-0833-6"},
 
+	{"Title":"First results from the CRIS experiment",
+	"Label":"CRIS2","CitedBy":2, "Year":2014,"Author":true,
+	"URL":"https://link.springer.com/article/10.1007/s10751-013-0988-1"},
+
 	{"Title":"Laser spectroscopy of francium isotopes at the borders of the region of reflection asymmetry",
-	"Label":"Francium","CitedBy":9, "Year":2014,"Author":false,
+	"Label":"Francium","CitedBy":26, "Year":2014,"Author":false,
 	"URL":"http://journals.aps.org/prc/abstract/10.1103/PhysRevC.90.014317"},
 
 	{"Title":"Laser spectroscopy of gallium isotopes beyond N= 50",
-	"Label":"Gallium","CitedBy":8, "Year":2012,"Author":false,
+	"Label":"Gallium","CitedBy":13, "Year":2012,"Author":false,
 	"URL":"http://iopscience.iop.org/1742-6596/381/1/012071"},
 
 	{"Title":"Nuclear moments and charge radii of neutron-deficient francium isotopes and isomers",
-	"Label":"Francium","CitedBy":5, "Year":2015,"Author":false,
+	"Label":"Francium","CitedBy":12, "Year":2015,"Author":false,
 	"URL":"http://journals.aps.org/prc/abstract/10.1103/PhysRevC.91.044307"},
 
 	{"Title":"Direct observation of an isomeric state in 98Rb and nuclear properties of exotic rubidium isotopes measured by laser spectroscopy",
-	"Label":"Rubidium","CitedBy":4, "Year":2015,"Author":true,
+	"Label":"Rubidium","CitedBy":11, "Year":2015,"Author":true,
 	"URL":"http://link.springer.com/10.1140/epja/i2015-15023-2"},
 
 	{"Title":"CRIS: A new method in isomeric beam production",
-	"Label":"CRIS","CitedBy":1, "Year":2013,"Author":false,
+	"Label":"CRIS","CitedBy":3, "Year":2013,"Author":false,
 	"URL":"http://www.epj-conferences.org/articles/epjconf/abs/2013/24/epjconf_hias2013_01007/epjconf_hias2013_01007.html"},
 
 	{"Title":"Internal decay of the (10−) intruder state in Tl 184",
-	"Label":"Thallium","CitedBy":2, "Year":2015,"Author":false,
+	"Label":"Thallium","CitedBy":6, "Year":2015,"Author":false,
 	"URL":"http://journals.aps.org/prc/abstract/10.1103/PhysRevC.92.014325"},
 
 	{"Title":"The Collinear Fast Beam laser Spectroscopy (Cfbs) experiment at Triumf",
-	"Label":"TRIUMF","CitedBy":0, "Year":2016,"Author":true,
+	"Label":"TRIUMF","CitedBy":2, "Year":2016,"Author":true,
 	"URL":"http://www.sciencedirect.com/science/article/pii/S0168900215015648"},
 
 	{"Title":"α-decay study of Tl",
-	"Label":"Thallium","CitedBy":0, "Year":2016,"Author":false,
+	"Label":"Thallium","CitedBy":5, "Year":2016,"Author":false,
 	"URL":"http://iopscience.iop.org/article/10.1088/0954-3899/43/2/025102/meta"},
+
+	{"Title":"Changes in mean-squared charge radii and magnetic moments of Tl 179–184 measured by in-source laser spectroscopy",
+	"Label":"Thallium179","CitedBy":10, "Year":2017,"Author":false,
+	"URL":"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.95.014324"},
+
+	{"Title":"Shape coexistence studied in Hg via the β decay of Tl",
+	"Label":"Mercury","CitedBy":1, "Year":2017,"Author":false,
+	"URL":"http://iopscience.iop.org/article/10.1088/1361-6471/aa6bb6/meta"},
 
 	{"Title":"New Techniques of Laser Spectroscopy on Exotic Isotopes of Gallium and Francium",
 	"Label":"Thesis","CitedBy":15, "Year":2013,"Author":true,
